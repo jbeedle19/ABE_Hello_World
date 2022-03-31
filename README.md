@@ -1,4 +1,7 @@
-# Advanced Back-End: Module One
-
+# Module One: Hello World
 ## Description
-This is the project for Module One of the Advanced Back-End bootcamp in which you create a remote server and host a simple application on it.
+A simple 'Hello World' application to practice hosting an application on my own remote server. In this module I created the remote server using a DigitalOcean droplet and bought a domain name, technical-tracks.xyz, from NameCheap in order to host my application publicly and allow users to visit.
+## Tools
+* Node.js & Express.js
+* DigitalOcean
+* NameCheap
